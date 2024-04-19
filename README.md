@@ -38,10 +38,10 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 Составьте таблицу, используя любой текстовый редактор или Excel, в которой должно быть два столбца: в первом должны быть названия таблиц восстановленной базы, во втором названия первичных ключей этих таблиц. Пример: (скриншот/текст)
 
-
+```
 > Название таблицы | Название первичного ключа
-
 > customer         | customer_id
+```
 
 ![alt text](https://github.com/MaratKN/sdb_1202/blob/main/5.jpg)
 ![alt text](https://github.com/MaratKN/sdb_1202/blob/main/6.jpg)
