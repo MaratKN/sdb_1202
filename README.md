@@ -40,6 +40,7 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 > [!NOTE]
 > Название таблицы | Название первичного ключа
+
 > customer         | customer_id
 
 ![alt text](https://github.com/MaratKN/sdb_1202/blob/main/5.jpg)
